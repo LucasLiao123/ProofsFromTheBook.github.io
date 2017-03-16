@@ -1,4 +1,4 @@
-# Proofs From The Book ([PDF](/Proofs from THE BOOK.pdf))
+# Proofs From The Book ([PDF](/Proofs_from_THE_BOOK.pdf))
 
 ![](/img/proofs-from-the-book-001.jpg)
 ![](/img/proofs-from-the-book-002.jpg)
