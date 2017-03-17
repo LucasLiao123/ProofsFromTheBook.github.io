@@ -5,7 +5,14 @@
 ---------
 
 * Number Theory
-  1.
+  1. [Six proofs of the infinity of primes]()
+  1. [Bertrand's postulate]()
+  1. [Binomial coefficients are (almost) never powers]()
+  1. [Representing numbers as sums of two squares]()
+  1. [The law of quadratic reciprocity]()
+  1. [Every finite division ring is a field]()
+  1. [Some irrational numbers]()
+  1. [Three times $\pi^2/6$]()
 *
 * [20](/20.md)
 *
