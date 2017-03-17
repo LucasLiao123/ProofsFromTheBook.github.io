@@ -36,6 +36,27 @@
   
 * **Combinatorics**
   25. [Pigeon-hole and double countring]()
+  26. [Tiling rectangles]()
+  27. [Three famous theorems on finite sets]()
+  28. [Shuffling cards]()
+  29. [Lattice paths and determinants]()
+  30. [Cayley's formula for the number of trees]()
+  31. [Identities versus bijections]()
+  32. [Completing Latin squares]()
+  
+* **Graph Theory**
+  33. [The Dinitz problem]()
+  34. [Five-coloring plane graphs]()
+  35. [How to guard a museum]()
+  36. [Turan's graph theorem]()
+  37. [Communicating without errors]()
+  38. [The chromatic number of Kneser graphs]()
+  39. [Of friends and politicians]()
+  40. [Probability makes countring (sometimes) easy]()
+  
+* [About the Illustrations]()
+
+* [Index]()
 
 ---------
 
