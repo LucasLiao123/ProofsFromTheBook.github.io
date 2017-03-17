@@ -1,6 +1,9 @@
-# Proofs From The Book 
-
+# Proofs From The Book     
 ## ([PDF](/Proofs%20from%20THE%20BOOK.pdf))
+
+---------
+
+# Contents:
 
 ---------
 
@@ -35,28 +38,28 @@
   24 - [Buffon's needle problem](/38)            
   
 * **Combinatorics**            
-  25 - [Pigeon-hole and double countring]()            
-  26 - [Tiling rectangles]()            
-  27 - [Three famous theorems on finite sets]()      
-  28 - [Shuffling cards]()      
-  29 - [Lattice paths and determinants]()      
-  30 - [Cayley's formula for the number of trees]()      
-  31 - [Identities versus bijections]()      
-  32 - [Completing Latin squares]()      
+  25 - [Pigeon-hole and double countring](/41)            
+  26 - [Tiling rectangles](/42)            
+  27 - [Three famous theorems on finite sets](/43)      
+  28 - [Shuffling cards](/44)      
+  29 - [Lattice paths and determinants](/45)      
+  30 - [Cayley's formula for the number of trees](/46)      
+  31 - [Identities versus bijections](/47)      
+  32 - [Completing Latin squares](/48)      
   
 * **Graph Theory**      
-  33 - [The Dinitz problem]()      
-  34 - [Five-coloring plane graphs]()      
-  35 - [How to guard a museum]()      
-  36 - [Turan's graph theorem]()      
-  37 - [Communicating without errors]()      
-  38 - [The chromatic number of Kneser graphs]()      
-  39 - [Of friends and politicians]()      
-  40 - [Probability makes countring (sometimes) easy]()      
+  33 - [The Dinitz problem](/51)      
+  34 - [Five-coloring plane graphs](/52)      
+  35 - [How to guard a museum](/53)      
+  36 - [Turan's graph theorem](/54)      
+  37 - [Communicating without errors](/55)      
+  38 - [The chromatic number of Kneser graphs](/56)      
+  39 - [Of friends and politicians](/57)      
+  40 - [Probability makes countring (sometimes) easy](/58)      
   
-* [About the Illustrations]()
+* [About the Illustrations](/61)
 
-* [Index]()
+* [Index](/62)
 
 ---------
 
