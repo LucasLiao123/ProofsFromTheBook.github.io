@@ -2,6 +2,8 @@
 
 ## ([PDF](/Proofs%20from%20THE%20BOOK.pdf))
 
+[20-40](/40.md)
+
 ![](/img/proofs-from-the-book-001.jpg)
 ![](/img/proofs-from-the-book-002.jpg)
 ![](/img/proofs-from-the-book-003.jpg)
