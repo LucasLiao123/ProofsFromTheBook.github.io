@@ -59,7 +59,7 @@
   
 * [About the Illustrations](/illustrations)
 
-* [Index](/index)
+* [Index](/ind)
 
 ---------
 
