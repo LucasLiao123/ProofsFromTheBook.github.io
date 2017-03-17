@@ -6,16 +6,27 @@
 
 * Number Theory
   1. [Six proofs of the infinity of primes]()
-  1. [Bertrand's postulate]()
-  1. [Binomial coefficients are (almost) never powers]()
-  1. [Representing numbers as sums of two squares]()
-  1. [The law of quadratic reciprocity]()
-  1. [Every finite division ring is a field]()
-  1. [Some irrational numbers]()
-  1. [Three times $\pi^2/6$]()
-*
-* [20](/20.md)
-*
+  2. [Bertrand's postulate]()
+  3. [Binomial coefficients are (almost) never powers]()
+  4. [Representing numbers as sums of two squares]()
+  5. [The law of quadratic reciprocity]()
+  6. [Every finite division ring is a field]()
+  7. [Some irrational numbers]()
+  8. [Three times $\pi^2/6$]()
+* Geometry
+  9. [Hilbert's third problem: decomposing polyhedra]()
+  10. [Lines in the plane and decompositions of graphs]()
+  11. [The slope problem]()
+  12. [Three applications of Euler's formula]()
+  13. [Cauchy's rigidity theorem]()
+  14. [Touching simplices]()
+  15. [Every large point set has an obtuse angle]()
+  16. [Borsuk's conjecture]()
+* Analysis
+  17. [Sets, functions, and the continuum hypothesis]()
+  18. [In praise of inequalities]()
+  19. [The fundamental theorem of algebra]()
+  20. [One square and an odd number of triangles]()
 *
 *
 *
