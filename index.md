@@ -15,24 +15,24 @@
   8 - [Three times $\pi^2/6$](/18)                  
   
 * **Geometry**            
-  9 - [Hilbert's third problem: decomposing polyhedra]()                  
-  10 - [Lines in the plane and decompositions of graphs]()                  
-  11 - [The slope problem]()                  
-  12 - [Three applications of Euler's formula]()                  
-  13 - [Cauchy's rigidity theorem]()                  
-  14 - [Touching simplices]()                  
-  15 - [Every large point set has an obtuse angle]()                  
-  16 - [Borsuk's conjecture]()                  
+  9 - [Hilbert's third problem: decomposing polyhedra](/21)                  
+  10 - [Lines in the plane and decompositions of graphs](/22)                  
+  11 - [The slope problem](/23)                  
+  12 - [Three applications of Euler's formula](/24)                  
+  13 - [Cauchy's rigidity theorem](/25)                  
+  14 - [Touching simplices](/26)                  
+  15 - [Every large point set has an obtuse angle](/27)                  
+  16 - [Borsuk's conjecture](/28)                  
               
 * **Analysis**            
-  17 - [Sets, functions, and the continuum hypothesis]()            
-  18 - [In praise of inequalities]()            
-  19 - [The fundamental theorem of algebra]()            
-  20 - [One square and an odd number of triangles]()            
-  21 - [A theorem of Polya on polynomials]()            
-  22 - [On a lemma of Littlewood and Offord]()            
-  23 - [Cotangent and the Herglotz trick]()            
-  24 - [Buffon's needle problem]()            
+  17 - [Sets, functions, and the continuum hypothesis](/31)            
+  18 - [In praise of inequalities](/32)            
+  19 - [The fundamental theorem of algebra](/33)            
+  20 - [One square and an odd number of triangles](/34)            
+  21 - [A theorem of Polya on polynomials](/35)            
+  22 - [On a lemma of Littlewood and Offord](/36)            
+  23 - [Cotangent and the Herglotz trick](/37)            
+  24 - [Buffon's needle problem](/38)            
   
 * **Combinatorics**            
   25 - [Pigeon-hole and double countring]()            
@@ -59,7 +59,6 @@
 * [Index]()
 
 ---------
-
 
 ![](/img/proofs-from-the-book-001.jpg)
 ![](/img/proofs-from-the-book-002.jpg)
