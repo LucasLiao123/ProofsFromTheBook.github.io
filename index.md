@@ -2,7 +2,21 @@
 
 ## ([PDF](/Proofs%20from%20THE%20BOOK.pdf))
 
-[20-40](/40.md)
+---------
+
+* [20](/20.md)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+---------
+
 
 ![](/img/proofs-from-the-book-001.jpg)
 ![](/img/proofs-from-the-book-002.jpg)
@@ -14,13 +28,3 @@
 ![](/img/proofs-from-the-book-008.jpg)
 ![](/img/proofs-from-the-book-009.jpg)
 ![](/img/proofs-from-the-book-010.jpg)
-![](/img/proofs-from-the-book-011.jpg)
-![](/img/proofs-from-the-book-012.jpg)
-![](/img/proofs-from-the-book-013.jpg)
-![](/img/proofs-from-the-book-014.jpg)
-![](/img/proofs-from-the-book-015.jpg)
-![](/img/proofs-from-the-book-016.jpg)
-![](/img/proofs-from-the-book-017.jpg)
-![](/img/proofs-from-the-book-018.jpg)
-![](/img/proofs-from-the-book-019.jpg)
-![](/img/proofs-from-the-book-020.jpg)
