@@ -70,4 +70,3 @@
 ![](/img/proofs-from-the-book-007.jpg)
 ![](/img/proofs-from-the-book-008.jpg)
 ![](/img/proofs-from-the-book-009.jpg)
-![](/img/proofs-from-the-book-010.jpg)
