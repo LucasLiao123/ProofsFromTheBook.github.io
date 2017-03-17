@@ -5,14 +5,14 @@
 ---------
 
 * **Number Theory**      
-  1 - [Six proofs of the infinity of primes]()      
-  2 - [Bertrand's postulate]()            
-  3 - [Binomial coefficients are (almost) never powers]()      
-  4 - [Representing numbers as sums of two squares]()                  
-  5 - [The law of quadratic reciprocity]()                  
-  6 - [Every finite division ring is a field]()                  
-  7 - [Some irrational numbers]()                  
-  8 - [Three times $\pi^2/6$]()                  
+  1 - [Six proofs of the infinity of primes](/11)      
+  2 - [Bertrand's postulate](/12)            
+  3 - [Binomial coefficients are (almost) never powers](/13)      
+  4 - [Representing numbers as sums of two squares](/14)                  
+  5 - [The law of quadratic reciprocity](/15)                  
+  6 - [Every finite division ring is a field](/16)                  
+  7 - [Some irrational numbers](/17)                  
+  8 - [Three times $\pi^2/6$](/18)                  
   
 * **Geometry**            
   9 - [Hilbert's third problem: decomposing polyhedra]()                  
