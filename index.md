@@ -1,5 +1,5 @@
 # Proofs From The Book     
-## ([PDF](/Proofs%20from%20THE%20BOOK.pdf))
+## ([PDF](/Proofs%20from%20THE%20BOOK.pdf)) ([FULL](/full) - considerable loading time!)
 
 ---------
 
