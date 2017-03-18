@@ -75,4 +75,4 @@
 
 # ***By Taras Seleznev - Свободное знание для всех!***
 
-# Donate ♡ Bitcoin: 1GGbq5xkk9YUUy4QTqsUhNnc9T1n3sQ9Fo
+## Donate ♡ Bitcoin: 1GGbq5xkk9YUUy4QTqsUhNnc9T1n3sQ9Fo
