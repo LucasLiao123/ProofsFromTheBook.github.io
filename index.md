@@ -74,3 +74,5 @@
 ![](/img/proofs-from-the-book-009.jpg)
 
 # ***By Taras Seleznev - Свободное знание для всех!***
+
+# Donate ♡ Bitcoin: 1GGbq5xkk9YUUy4QTqsUhNnc9T1n3sQ9Fo
